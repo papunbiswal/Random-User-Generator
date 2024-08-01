@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(174, 193, 210);
+    margin-left: 35%;
+    margin-top: 10%;
+    
+}
+#generate-btn{
+    background-color: green;
+    color: white;   
+}
